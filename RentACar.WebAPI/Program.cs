@@ -1,6 +1,5 @@
 using RentACar.WebAPI.Infrastructure.Database;
 using RentACar.WebAPI.Interfaces;
-
 using RentACar.WebAPI.Middlewares;
 using RentACar.WebAPI.Services;
 using Microsoft.EntityFrameworkCore;
